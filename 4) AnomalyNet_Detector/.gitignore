@@ -1,0 +1,6 @@
+.vscode/
+analyzer.log
+Analyzer
+logs/
+reports/
+program.pid
